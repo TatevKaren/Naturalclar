@@ -1,4 +1,3 @@
-![Naturalclar's github stats](https://github-readme-stats.vercel.app/api?username=TatevKaren&show_icons=true&theme=radical)
 
 <img src="header.svg" width="500" height="250">
 
