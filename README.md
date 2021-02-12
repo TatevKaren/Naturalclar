@@ -6,9 +6,10 @@ I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with a bac
 **Contacts**
 <br>
 <img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> LinkedIn <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/"></a>
-<br>
+
+<br><br>
 **Case Studies and Tasks using Languages and Tools**  
-<br >
+<br><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
