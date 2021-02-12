@@ -5,11 +5,9 @@ Hi, I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with a
 
 <img align="right" alt="GIF" src="https://www.click2magic.com/video/homepage-vector.gif?raw=true" width="500" height="320"/>
 
-### contact
-
 - <img align="left" alt="Tatev's LinkdeIN" width="19px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> Contact me on LinkedIn <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/"></a>;
 
-**Case Studies and Tasks using Languages and Tools:**  
+**Case Studies and Tasks using Languages and Tools**  
 <br >
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
