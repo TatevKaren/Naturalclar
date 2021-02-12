@@ -5,7 +5,7 @@ I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with a bac
 
 **Contacts**
 <br>
-<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> LinkedIn <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/"></a>
+<img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
 
 <br><br>
 **Case Studies and Tasks using Languages and Tools**  
