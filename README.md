@@ -7,7 +7,7 @@ Hi, I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with a
 
 ### contact
 
-- <img align="left" alt="Tatev's LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> Contact me on LinkedIn <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/"></a>;
+- <img align="left" alt="Tatev's LinkdeIN" width="19px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> Contact me on LinkedIn <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/"></a>;
 
 **Case Studies and Tasks using Languages and Tools:**  
 <br >
