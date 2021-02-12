@@ -14,7 +14,3 @@ SVG credits to https://github.com/sindresorhus/css-in-readme-like-wat
 Hi, I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with a background in Mathematics, Statistics, and Econometrics from Netherlands. I completed Master in Science <a href="https://www.eur.nl/en" target="_blank" > at Erasmus University Rotterdam </a>, (top 68 in the world university rankings), with majors in Ecomometrics and Management Sciences and Bacherlor in Science <a href="https://www.tilburguniversity.edu/"> at Tilburg University</a> with majors in Ecomometrics and Operational Research. <br> 
 <a><img align="left" alt="Tatev's LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TatevKaren&show_icons=true&theme=gotham" alt="Tatev Karen Aslanyan" />
