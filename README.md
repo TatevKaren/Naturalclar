@@ -11,7 +11,7 @@ SVG credits to https://github.com/sindresorhus/css-in-readme-like-wat
   </a>
 </p>
 
-Hi, I'm **Tatev Aslanyan** , Data Scientist | Quantitative Analyst | Researcher with a background in Mathematics/Statistics/Econometrics from Netherlands. Completed Master in Science <a href="https://www.eur.nl/en" target="_blank" > at Erasmus University Rotterdam </a>, (top 68 in the world university rankings), and Bacherlor in Science <a href="https://www.tilburguniversity.edu/"> Tilburg university</a>
-<a>  
-  <img align="left" alt="Tatev's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+Hi, I'm **Tatev Aslanyan** , Data Scientist and Quantitative Analyst with a background in Mathematics, Statistics, and Econometrics from Netherlands. 
+<br>
+Completed Master in Science <a href="https://www.eur.nl/en" target="_blank" > at Erasmus University Rotterdam </a>, (top 68 in the world university rankings), with majors in Ecom and Bacherlor in Science <a href="https://www.tilburguniversity.edu/"> at Tilburg university <img align="left" alt="Tatev's LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
