@@ -8,7 +8,7 @@ I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with stron
 <img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
 <br>
 <br>
-<img align="left" alt="Tatev's Youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s">Youtube</a>
+<img align="left" alt="Tatev's Youtube" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s">Youtube</a>
 <br><br>
 <img align="left" alt="Tatev's Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a>
 <br>
