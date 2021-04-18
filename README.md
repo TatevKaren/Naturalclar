@@ -12,8 +12,6 @@ In my Github profile you can find my Case Studies with **Codes**, **Papers**, **
 <br>
 
 **Contacts**
-
-<br>
 <img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
 <br>
 <img align="left" alt="Tatev's Youtube" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s">Youtube</a>
