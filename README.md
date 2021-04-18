@@ -1,7 +1,7 @@
 
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science <a href="https://www.eur.nl/en" target="_blank"> at Erasmus University Rotterdam </a>, with majors in Ecomometrics and Management Sciences and Bacherlor in Science <a href="https://www.tilburguniversity.edu/"> at Tilburg University</a> with majors in Ecomometrics and Operational Research. <br>
-In my Github profile you can find my Case Studies with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
+In my Github profile you can find my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - Data Science (Machine Learning, Deep Learning, Recommender Systems)
 - Data Analytics
@@ -24,9 +24,7 @@ In my Github profile you can find my Case Studies with **Codes**, **Papers**, **
 <br>
 
 
-
-
-**Case Studies and Analysis using Languages**  
+**Used Programming Languages**  
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
