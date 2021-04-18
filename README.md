@@ -10,7 +10,9 @@ In my Github profile you can find my Case Studies with **Codes**, **Papers**, **
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
+
 **Contacts**
+
 <br>
 <img align="left" alt="Tatev's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan-92712114a/">LinkedIn</a>
 <br>
