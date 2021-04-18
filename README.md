@@ -22,7 +22,7 @@ In my Github profile you can find my **Case Studies** with **Codes**, **Papers**
 
 <img align="left" alt="Tatev's Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a>
 <br>
-
+<br>
 
 **Used Programming Languages**  
 <br>
