@@ -3,11 +3,11 @@
 I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science <a href="https://www.eur.nl/en" target="_blank"> at Erasmus University Rotterdam </a>, with majors in Ecomometrics and Management Sciences and Bacherlor in Science <a href="https://www.tilburguniversity.edu/"> at Tilburg University</a> with majors in Ecomometrics and Operational Research. <br>
 In my Github profile you can find my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
-- Data Science (Machine Learning, Deep Learning, Recommender Systems)
-- Data Analytics
-- Statistics
-- Econometrics 
-- Finance <br>
+- **Data Science (ML & DL)**
+- **Data Analytics**
+- **Statistics**
+- **Econometrics** 
+- **Finance** <br>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
