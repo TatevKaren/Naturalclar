@@ -4,7 +4,7 @@ I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with stron
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - **Data Science (ML & DL)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
-- **Data Analytics**
+- **Data Analytics** <a href="https://github.com/TatevKaren/PySpark_Tutorial"> -> <a> 
 - **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
 - **Econometrics** 
 - **Finance** 
