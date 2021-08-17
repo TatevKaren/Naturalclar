@@ -5,7 +5,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 
 - **Data Science (ML & DL)**
 - **Data Analytics**
-- **Statistics**
+- **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
 - **Econometrics** 
 - **Finance** <br>
 
