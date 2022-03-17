@@ -16,7 +16,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 
 **Contacts**
  
-<img align="left" alt="LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn</a><br>
+<img align="left" alt="LinkdeIN" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwi0ltmG98z2AhUO_4UKHb7OA3QQMygAegUIARDdAQ..i&docid=vLBuaTBzrfpOUM&w=512&h=512&q=linkedin%20logo&ved=2ahUKEwi0ltmG98z2AhUO_4UKHb7OA3QQMygAegUIARDdAQ" /> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn</a><br>
 
 <img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a><br>
 
