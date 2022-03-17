@@ -7,9 +7,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 - **Data Analytics** <a href="https://github.com/TatevKaren/PySpark_Tutorial"> -> <a> 
 - **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
 - **Econometrics** <a href="https://github.com/TatevKaren/econometric-algorithms"> -> <a>
-- **Finance** <a href="https://github.com/TatevKaren/Finance-Projects"> -> <a>
- 
-  <br>
+
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
