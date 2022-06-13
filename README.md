@@ -1,5 +1,5 @@
 
-### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science at Erasmus University Rotterdam, with majors in Ecomometrics and Management Sciences and Bacherlor in Science at Tilburg University with majors in Ecomometrics and Operational Research. <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
