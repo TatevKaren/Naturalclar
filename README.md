@@ -18,9 +18,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
  <br>
 
 <img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a>
- <br>
 
-<img align="left" alt="Youtube" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s">Youtube</a>
 <br>
 <br>
 
