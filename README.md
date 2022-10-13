@@ -4,11 +4,11 @@ I'm **Tatev Karen Aslanyan**, Data Scientist and Quantitative Analyst with stron
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
+- **Software Engineering** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
 - **Deep Learning** <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model"> -> <a> 
 - **Mathematics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science"> -> <a> 
 - **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
 - **Econometrics** <a href="https://github.com/TatevKaren/econometric-algorithms"> -> <a>
-- **Software Engineering** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
 
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
