@@ -1,6 +1,6 @@
 
 ### Hey there
-I'm **TK Aslanyan**,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
+I'm **Tatev Karen Aslanyan**,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
