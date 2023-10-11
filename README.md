@@ -17,6 +17,7 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
 
+
 - **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
 - **Data Structures & Algorithms** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
 - **Deep Learning** <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model"> -> <a> 
