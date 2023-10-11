@@ -26,6 +26,8 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
 
+**Downalod FREE Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
+
 **Contacts**
 
 <img align="left"  width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn</a> 
