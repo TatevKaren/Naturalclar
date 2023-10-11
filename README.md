@@ -29,7 +29,7 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 <img align="left"  width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn</a> 
  <br>
  
-<img align="left"  width="50px" src="[https://lunartech.ai/wp-content/uploads/2023/06/cropped-Social_Profile_Mirko.jpg](https://lunartech.ai/wp-content/uploads/2023/06/cropped-Social_Profile_Mirko.jpg)"> <a href="https://tatevaslanyan.com">Personal Website</a> <br>
+<img align="left"  width="50px" src="https://lunartech.ai/wp-content/uploads/2023/06/cropped-Social_Profile_Mirko.jpg"> <a href="https://tatevaslanyan.com">Personal Website</a> <br>
 
 <img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium Blogs</a>
 <br>
