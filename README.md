@@ -14,8 +14,7 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 
 **Downalod FREE Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
 
-**Ultimate Data Science Bootcamp** <a href = "[https://downloads.tatevaslanyan.com/six-figure-data-science-ebook](https://lunartech.ai/course-overview/)">Enroll Free Trial here 
-</a> recognized as one of the Best Data Science Bootcamps for 2023 <a href = "https://www.itpro.com/business-strategy/careers-training/358100/best-data-science-boot-camps"> link here </a> 
+**Ultimate Data Science Bootcamp** <a href = "[https://downloads.tatevaslanyan.com/six-figure-data-science-ebook](https://lunartech.ai/course-overview/)">Enroll Free Trial here </a> Recognized as one of the Best Data Science Bootcamps for 2023 <a href = "https://www.itpro.com/business-strategy/careers-training/358100/best-data-science-boot-camps"> link here </a> 
 
 <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
