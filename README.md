@@ -7,11 +7,12 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 
 🔍 Operate: <br>
 
-**Specialties:** Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering 
+- **Specialties:** Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering 
+- **Innovation:** Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
+- **Areas of Interest:** Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics <br>
 
-**Innovation:** Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
+**Downalod FREE Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
 
-**Areas of Interest:** Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics<br>
 <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
 
@@ -22,11 +23,8 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 - **Statistics** <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Deriving%20Expectation%20and%20Variances%20of%20Densities/README.MD"> -> <a>
 - **Econometrics** <a href="https://github.com/TatevKaren/econometric-algorithms"> -> <a>
 
-
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
-
-**Downalod FREE Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
 
 **Contacts**
 
