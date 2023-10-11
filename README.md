@@ -1,7 +1,17 @@
 
 ### Hey there
-I'm **Tatev Karen Aslanyan**,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
-Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
+I'm Tatev, a Machine Learning and AI Researcher with professional 4.5+ years of global experience, specializing in leading and executing impactful ML, AI, and data solutions. My expertise encompasses developing innovative data software and AI solutions for recommender systems, search engines, e-commerce, environmental, and retail companies. 
+
+Worked in Tech, as Data Scientist in ML and AI in both product-based and consultancy settings with a strong business sense, and collaborating with Tech Leads, UX designers, Senior Management, Product Leaders, and Business Directors.
+
+
+🔍 Operate:
+Specialties: Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering
+Innovation: Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
+
+Areas of Interest: Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics<br>
+
+Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - **Data Science (ML)** <a href="https://github.com/TatevKaren/data-science-popular-algorithms"> -> <a> 
 - **Data Structures & Algorithms** <a href= "https://github.com/TatevKaren/DataStructuresAlgorithmsCourse"> -> <a>
@@ -15,11 +25,12 @@ Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portf
 <br>
 
 **Contacts**
- 
+<img align="left"  width="30px" src="https://www.google.com/search?q=lunartech+logo&client=safari&sca_esv=572573644&rls=en&tbm=isch&sxsrf=AM9HkKn2GbCPzHri99vuJ3OngWutll8hPw:1697052772422&source=lnms&sa=X&ved=2ahUKEwjp8aid3u6BAxXRy6QKHb2BBx4Q_AUoAXoECAIQAw&biw=1205&bih=855&dpr=2#imgrc=L7aIA5_A7wnWfM"/> <a href="https://tatevaslanyan.com">Personal Website</a> 
+ <br>
 <img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="https://www.linkedin.com/in/tatev-karen-aslanyan/">LinkedIn</a> 
  <br>
 
-<img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium</a>
+<img align="left" alt="Medium" width="100px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://tatev-aslanyan.medium.com/">Medium Blogs</a>
 
 <br>
 <br>
