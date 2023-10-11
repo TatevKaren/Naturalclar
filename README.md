@@ -1,15 +1,16 @@
 
 ### Hey there
 I'm Tatev, a Machine Learning and AI Researcher with professional 4.5+ years of global experience, specializing in leading and executing impactful ML, AI, and data solutions. My expertise encompasses developing innovative data software and AI solutions for recommender systems, search engines, e-commerce, environmental, and retail companies. 
-
+<br>
 Worked in Tech, as Data Scientist in ML and AI in both product-based and consultancy settings with a strong business sense, and collaborating with Tech Leads, UX designers, Senior Management, Product Leaders, and Business Directors.
 
 
-🔍 Operate:
-Specialties: Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering
-Innovation: Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
+🔍 Operate: <br>
+**Specialties:** Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering
+**Innovation:** Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
 
-Areas of Interest: Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics<br>
+<br>
+**Areas of Interest:** Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics<br>
 
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
