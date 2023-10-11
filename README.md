@@ -9,7 +9,7 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 
 - **Specialties:** Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering 
 - **Innovation:** Developed a recognized Data Science Bootcamp; Published first-authored papers in AI and NLP research at ACM
-- **Areas of Interest:** Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics <br>
+- **Areas of Interest:** Ethical AI, Edge AI, Graph Neural Networks (GNN), Generative AI, Computer Vision, Biomedical Informatics <br><br>
 
 **Downalod FREE Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
 
