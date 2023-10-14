@@ -1,6 +1,6 @@
 
 ### Hey there
-I'm Tatev, a Machine Learning and AI Researcher with professional 4.5+ years of global experience, specializing in leading and executing impactful ML, AI, and data solutions. My expertise encompasses developing innovative data software and AI solutions for recommender systems, search engines, e-commerce, environmental, and retail companies. 
+I'm Tatev, a Machine Learning and AI Researcher with global work experience specializing in leading and executing impactful ML, AI, and data solutions. My expertise encompasses developing innovative data software and AI solutions for recommender systems, search engines, e-commerce, environmental, and retail companies. 
 <br>
 Worked in Tech, as Data Scientist in ML and AI in both product-based and consultancy settings with a strong business sense, and collaborating with Tech Leads, UX designers, Senior Management, Product Leaders, and Business Directors.
 
