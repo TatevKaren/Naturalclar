@@ -8,9 +8,17 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 **Handbooks and Ebooks - Download for FREE**
 - **Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
 
-**Courses**
+**🖥️ Resources and Courses to get into Machine Learning**
 - **Ultimate Data Science Bootcamp** <a href = "https://lunartech.ai/course-overview/">Curriculum here </a> <br> Recognized as one of the **Best Data Science Bootcamps for 2023** <a href = "https://www.itpro.com/business-strategy/careers-training/358100/best-data-science-boot-camps"> link here </a>, with FREE Trial
-- **Deep Learning Interview Preparation Course [7.5h - 100 Questions & Answers]** <a href = "https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s">Enroll at LunarTech.ai </a>
+- **Deep Learning Interview Prep Course (100 Q&A's 7.5h)** <a href = "https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s">Enroll at LunarTech.ai </a>
+- **Machine Learning RoadMap 2024** <a href = "[https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s](https://www.youtube.com/watch?v=esGtjVV9gLI)">Watch Full Video at LunarTech_ai YouTube </a>
+
+- **Fundamentals to Machine Learning Course:**  <a href = "https://courses.lunartech.ai/courses/machine-learning">Enroll at LunarTech.ai </a>
+- **Fundamentals to Statistics Course**:  <a href = "https://courses.lunartech.ai/courses/statistics">Enroll at LunarTech.ai </a>
+- **Python for Data Science Course:**  <a href = "https://courses.lunartech.ai/courses/python-for-data-scienc">Enroll at LunarTech.ai </a>
+- **Introduction to NLP Course:**  <a href="https://courses.lunartech.ai/courses/introduction-to-nlp">Enroll at LunarTech.ai </a>
+- **A/B Testing in Python Course:**  <a href="https://courses.lunartech.ai/courses/ab-testing">Enroll at LunarTech.ai </a>
+
 
 <br>
 Check out my<a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio"> Personal Portfolio</a> consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
