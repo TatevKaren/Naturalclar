@@ -6,13 +6,17 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 
 
 **Handbooks and Ebooks - Download for FREE**
-- **Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">here </a>
+- **Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">Doanload here </a>
+- **Free Deep Learning Course (Part 1 | 50 Q&A's on YouTube 4h)**: <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">Doanload here </a>
+- **Machine Learning Fundamentals Handbook** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
+- **JAVA Fundamentals Book** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
+- **Data Structures & Algorithms Book** <a href = "https://join.lunartech.ai/data-structures-fundamentals">Doanload here </a>
+
 
 **🖥️ Resources and Courses to get into Machine Learning**
 - **Ultimate Data Science Bootcamp** <a href = "https://lunartech.ai/course-overview/">Curriculum here </a> <br> Recognized as one of the **Best Data Science Bootcamps for 2023** <a href = "https://www.itpro.com/business-strategy/careers-training/358100/best-data-science-boot-camps"> link here </a>, with FREE Trial
 - **Deep Learning Interview Prep Course (100 Q&A's 7.5h)** <a href = "https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s">Enroll at LunarTech.ai </a>
 - **Machine Learning RoadMap 2024** <a href = "[https://courses.lunartech.ai/courses/deep-learning-interview-preparation-course-100-q-a-s](https://www.youtube.com/watch?v=esGtjVV9gLI)">Watch Full Video at LunarTech_ai YouTube </a>
-
 - **Fundamentals to Machine Learning Course:**  <a href = "https://courses.lunartech.ai/courses/machine-learning">Enroll at LunarTech.ai </a>
 - **Fundamentals to Statistics Course**:  <a href = "https://courses.lunartech.ai/courses/statistics">Enroll at LunarTech.ai </a>
 - **Python for Data Science Course:**  <a href = "https://courses.lunartech.ai/courses/python-for-data-scienc">Enroll at LunarTech.ai </a>
