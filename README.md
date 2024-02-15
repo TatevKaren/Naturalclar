@@ -8,6 +8,7 @@ Worked in Tech, as Data Scientist in ML and AI in both product-based and consult
 **Handbooks and Ebooks - Download for FREE**
 - **Data Science and AI Career Handbook** <a href = "https://downloads.tatevaslanyan.com/six-figure-data-science-ebook">Doanload here </a>
 - **Free Deep Learning Course (Part 1 | 50 Q&A's on YouTube 4h)**: <a href = "https://www.youtube.com/watch?v=Lf8XNN3-8nI">Watch on Youtube here </a>
+- **Complete Guide to AB Testing-with Python** <a href = "https://join.lunartech.ai/abtesting-optin"> Download here </a>
 - **Machine Learning Fundamentals Handbook** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
 - **JAVA Fundamentals Book** <a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f">Doanload here </a>
 - **Data Structures & Algorithms Book** <a href = "https://join.lunartech.ai/data-structures-fundamentals">Doanload here </a>
